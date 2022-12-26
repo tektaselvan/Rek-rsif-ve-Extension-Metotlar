@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "P0Jkas92/8UL2jN23tZb1Dz3q9GzJ6OxUowxf5l+QWtBQarySqVXNU812hLp9Jv4NrG7xlAov5+kODJ8jvqZcg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tekta\\OneDrive\\Masaüstü\\Pratikler\\recursive-extension\\recursive-extension.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tekta\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
